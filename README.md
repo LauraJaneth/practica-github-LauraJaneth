@@ -1,5 +1,8 @@
 # Proyecto Tienda Online 
 
+
+![Tienda Online](401165.png)
+
 ## Descripción 
 Este proyecto simula una tienda en línea.
 
